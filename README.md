@@ -30,7 +30,7 @@ The goal is to transform, real-world retail data into a clean, structured format
 *   **PySpark SQL:** DataFrame API and Spark SQL functions (including Window Functions).
 *   **Azure Databricks:**  The execution environment for the notebook.
 *   **Azure Data Lake:**  Store the data into Raw and Processed layers
-*   **Azure Key Vault:** Safely store the access keys of the data lake
+*   **Azure Key Vault:** Safely stores the access keys of the data lake
 
 ## Dataset
 
